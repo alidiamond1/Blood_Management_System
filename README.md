@@ -70,10 +70,10 @@ The system uses a MySQL database with the following main tables:
 ## Project Contributors
 
 This project was developed as part of a collaborative effort. The following are the group member names and contributions here.
-- Group Leader: [ Bishar Bashir Isse ]
-- Group Member: [ Muniro Abdinur Ahmed ] 
-- Group Member: [ Ali nur Abdulle Mohamud ]
-- Group Member: [ Nasteha Ali Ahmed ] 
+* Group Leader: Bishar Bashir Isse
+* Group Member: Muniro Abdinur Ahmed
+* Group Member: Ali nur Abdulle Mohamud
+* Group Member: Nasteha Ali Ahmed 
 
 ## License
 
