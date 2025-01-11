@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN original_password VARCHAR(255) DEFAULT NULL;
