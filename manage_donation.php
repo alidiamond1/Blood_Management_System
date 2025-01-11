@@ -42,7 +42,9 @@ foreach($qry->fetch_array() as $k => $val){
 <script>
 	$('.select2').select2({
 		placeholder:'Please select here.',
-		width:'100%'
+		width:'100%',
+		allowClear: true,
+		dropdownParent: $('#manage-donation')
 	})
 	$(document).ready(function(){
 		if('<?php echo isset($donor_id)? 1:0 ?>' == 1)
